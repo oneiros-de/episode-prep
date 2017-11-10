@@ -139,7 +139,7 @@ das Eisenerz reduziert.
   - Torpedowagen
 
 * Energieverbrauch? Wirtschaftlichkeit in DE?
-
+* "Ökobilanz" - Wie könnte man die Stahlherstellung dekarbonisieren?
 * Alternative zu Hochofen: Elektrostahl. Trade-offs?
 * Was passiert mit der Schlacke?
 
