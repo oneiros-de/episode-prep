@@ -9,7 +9,9 @@ Contributors:
 * Szymon Bartusz
 * Karsten Schmidt
 
+Suggested book: [Command and Control](https://en.wikipedia.org/wiki/Command_and_Control_(book))
 
+Suggested blog: [Restricted Data](http://blog.nuclearsecrecy.com/)
 
 
 Delivery Systems and Command Structure
