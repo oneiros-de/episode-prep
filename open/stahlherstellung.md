@@ -52,6 +52,7 @@ https://de.wikipedia.org/wiki/Kokerei
   - Festigkeit
   - Abrieb
 * Wie funktioniert der Kokungsprozess?
+* Wie ist die Umweltbilanz? Wie hoch ist der "Wasserverbrauch"?
 
 
 Sinteranlage
